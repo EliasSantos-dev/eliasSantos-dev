@@ -55,9 +55,9 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
 * **Fintech Integration:** Integração com API Brick para Credit Scoring em tempo real e geolocalização.
 * **Mobile:** Desenvolvimento de aplicação mobile em React Native para corretores e segurados.
 
-## Projetos em Destaque
+<!--## Projetos em Destaque
 
-<!-- <div align="center">
+ <div align="center">
   <a href="https://github.com/EliasSantos-dev/nexus-core-architecture">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=nexus-core-architecture&theme=radical" />
   </a>
