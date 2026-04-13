@@ -11,8 +11,7 @@
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasSantos-dev&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSantos-dev&layout=compact&theme=radical"/>
+  <img src="https://metrics.lecoq.io/EliasSantos-dev?theme=radical" />
 </div>
 
 <br>
