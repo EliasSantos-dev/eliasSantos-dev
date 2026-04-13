@@ -58,8 +58,8 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
 ## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/EliasSantos-dev/NOME_DO_SEU_REPO_AQUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=NOME_DO_SEU_REPO_AQUI&theme=radical" />
+  <a href="https://github.com/EliasSantos-dev/nexus-core-architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=nexus-core-architecture&theme=radical" />
   </a>
 </div>
 
