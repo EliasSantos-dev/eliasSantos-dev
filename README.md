@@ -57,11 +57,11 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
 
 ## Projetos em Destaque
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/EliasSantos-dev/nexus-core-architecture">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=nexus-core-architecture&theme=radical" />
   </a>
-</div>
+</div> -->
 
 ## Contato e Formação
 
@@ -69,7 +69,7 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
   <a href="https://linkedin.com/in/eliassantos1" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+  <a href="mailto:m10elias10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
