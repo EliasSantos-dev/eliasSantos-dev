@@ -10,13 +10,10 @@
 
 ## Estatísticas do GitHub
 
-
-<!-- <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasSantos-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSantos-dev&layout=compact&theme=radical"/>
- </div> 
-
-<br> -->
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EliasSantos-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSantos-dev&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EliasSantos-dev&theme=radical&hide_border=true" alt="Gráfico de Commits" />
@@ -40,6 +37,29 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
 
 * **Especialidades:** AI Orchestration, Event-Driven Architecture, Fintech APIs, Credit Scoring.
 
+## Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/EliasSantos-dev/nexus-core-architecture">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=nexus-core-architecture&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/EliasSantos-dev/payment-api">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=payment-api&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/EliasSantos-dev/hub-90s">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=hub-90s&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/EliasSantos-dev/nexus-api">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=nexus-api&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/EliasSantos-dev/totem-autoatendimento-frontend">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=totem-autoatendimento-frontend&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/EliasSantos-dev/portifolio">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=portifolio&theme=radical&hide_border=true" />
+  </a>
+</div>
+
 ## Experiência Profissional
 
 ### Mindny | Backend Engineer | Full-stack Developer (2025-2026)
@@ -54,14 +74,6 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
 ### Virtoo | Full-stack Engineer (Fintech/Insurtech)
 * **Fintech Integration:** Integração com API Brick para Credit Scoring em tempo real e geolocalização.
 * **Mobile:** Desenvolvimento de aplicação mobile em React Native para corretores e segurados.
-
-<!--## Projetos em Destaque
-
- <div align="center">
-  <a href="https://github.com/EliasSantos-dev/nexus-core-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=nexus-core-architecture&theme=radical" />
-  </a>
-</div> -->
 
 ## Contato e Formação
 
