@@ -8,15 +8,15 @@
 
 ---
 
-## Estatísticas do GitHub
+## Atividade no GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EliasSantos-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSantos-dev&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EliasSantos-dev&theme=radical&hide_border=true" alt="Gráfico de Commits" />
+![Followers](https://img.shields.io/github/followers/EliasSantos-dev?style=for-the-badge&logo=github&color=0e75b6&labelColor=000)
+![Anos no GitHub](https://img.shields.io/badge/no%20GitHub-desde%202024-0e75b6?style=for-the-badge&logo=github&labelColor=000)
+
+<img src="https://streak-stats.demolab.com?user=EliasSantos-dev&theme=radical&hide_border=true" alt="Sequência de commits" />
+
 </div>
 
 ---
@@ -37,34 +37,16 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
 
 * **Especialidades:** AI Orchestration, Event-Driven Architecture, Fintech APIs, Credit Scoring.
 
-## 🏦 Projeto em Destaque — [neobank-core](https://github.com/EliasSantos-dev/neobank-core)
-
-[![CI](https://github.com/EliasSantos-dev/neobank-core/actions/workflows/ci.yml/badge.svg)](https://github.com/EliasSantos-dev/neobank-core/actions/workflows/ci.yml)
-
-Plataforma fintech em **Go + PostgreSQL** construída para provar correção sob concorrência: **ledger de partidas dobradas** (saldo derivado, sem double-spend), **motor de risco** com revisão humana, arquitetura **event-driven** (outbox transacional → NATS embutido → auditoria), **gateway de pagamento** com webhook idempotente, **multi-moeda/FX** com conservação por moeda e **credit scoring** explicável. Observabilidade Prometheus, 21 pacotes e **94 testes rodando com `-race` no CI**.
-
 ## Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com/EliasSantos-dev/neobank-core">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=neobank-core&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/EliasSantos-dev/payment-api">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=payment-api&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/EliasSantos-dev/hub-90s">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=hub-90s&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/EliasSantos-dev/nexus-api">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=nexus-api&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/EliasSantos-dev/totem-autoatendimento-frontend">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=totem-autoatendimento-frontend&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/EliasSantos-dev/portifolio">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=portifolio&theme=radical&hide_border=true" />
-  </a>
-</div>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[neobank-core](https://github.com/EliasSantos-dev/neobank-core)** | Plataforma fintech: ledger de partidas dobradas, risco, eventos (outbox→NATS), gateway, FX e credit scoring · **CI** [![CI](https://github.com/EliasSantos-dev/neobank-core/actions/workflows/ci.yml/badge.svg)](https://github.com/EliasSantos-dev/neobank-core/actions/workflows/ci.yml) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white) |
+| **[payment-api](https://github.com/EliasSantos-dev/payment-api)** | API de pagamentos: cobranças, clientes e webhooks, com segurança e deploy live | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[hub-90s](https://github.com/EliasSantos-dev/hub-90s)** | Plataforma full-stack: painel admin, autenticação e webhooks de PDV | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[nexus-api](https://github.com/EliasSantos-dev/nexus-api)** | API REST limpa: Prisma, Redis, Swagger e testes | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **[totem-autoatendimento-frontend](https://github.com/EliasSantos-dev/totem-autoatendimento-frontend)** | Totem self-service: fluxo cardápio → checkout → pagamento | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React_Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[portifolio](https://github.com/EliasSantos-dev/portifolio)** | Portfólio pessoal (elias.dev): animações e scroll suave | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer_Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
 
 ## Experiência Profissional
 
