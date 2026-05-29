@@ -37,11 +37,17 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
 
 * **Especialidades:** AI Orchestration, Event-Driven Architecture, Fintech APIs, Credit Scoring.
 
+## 🏦 Projeto em Destaque — [neobank-core](https://github.com/EliasSantos-dev/neobank-core)
+
+[![CI](https://github.com/EliasSantos-dev/neobank-core/actions/workflows/ci.yml/badge.svg)](https://github.com/EliasSantos-dev/neobank-core/actions/workflows/ci.yml)
+
+Plataforma fintech em **Go + PostgreSQL** construída para provar correção sob concorrência: **ledger de partidas dobradas** (saldo derivado, sem double-spend), **motor de risco** com revisão humana, arquitetura **event-driven** (outbox transacional → NATS embutido → auditoria), **gateway de pagamento** com webhook idempotente, **multi-moeda/FX** com conservação por moeda e **credit scoring** explicável. Observabilidade Prometheus, 21 pacotes e **94 testes rodando com `-race` no CI**.
+
 ## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/EliasSantos-dev/nexus-core-architecture">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=nexus-core-architecture&theme=radical&hide_border=true" />
+  <a href="https://github.com/EliasSantos-dev/neobank-core">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=neobank-core&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/EliasSantos-dev/payment-api">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasSantos-dev&repo=payment-api&theme=radical&hide_border=true" />
