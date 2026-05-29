@@ -50,6 +50,13 @@ Engenheiro de Software Full-stack focado em arquitetura de backends robustos e o
 
 ## Experiência Profissional
 
+### Upix Networks | Desenvolvedor Pleno — Growth, IA & Otimização de Processos *(Atual)*
+* **Otimização de processos:** desenvolvimento de automações e melhoria de fluxos internos/operacionais.
+* **IA aplicada a Growth:** uso de IA (LLMs/agentes) para alavancar crescimento em marketing, vendas e produto.
+* **Backend & Integrações:** APIs e integrações entre sistemas, com pipelines de dados.
+* **Data & Métricas de Growth:** instrumentação e análise de funil para apoiar decisões de crescimento.
+* **Infraestrutura:** provisionamento e operação de infra de apoio aos times de growth.
+
 ### Mindny | Backend Engineer | Full-stack Developer (2025-2026)
 * **Arquitetura Core:** Implementação de motor de disponibilidade dinâmica (Dynamic Availability) em NestJS para milhares de agendamentos simultâneos.
 * **IA Orchestration:** Framework desenvolvido com LangGraph (Python) para agentes inteligentes gerenciarem vendas e objeções via WhatsApp.
